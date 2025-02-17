@@ -3,4 +3,4 @@
 
 Here is some remark.
 
-![image](image/demo.png)
+![image](../../../../image/demo.png)
